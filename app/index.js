@@ -12,3 +12,10 @@ export default function Page() {
         </SafeAreaView>
     );
 }
+
+
+// / <- index.js
+
+// /contact <- index.js
+
+// /contact/Jose Giron <- [name].js
